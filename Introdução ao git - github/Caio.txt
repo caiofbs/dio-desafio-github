@@ -1,0 +1,19 @@
+Como clonar, atualizar o versionamento e executar o comando commit via terminal
+
+
+#Clonar na máquina local
+git clone (url do repositório em https ou http)
+
+#Versionamento
+git add .
+
+#Commit
+git commit -m "Mensagem desejada"
+exemplo:
+git commit -m "Inclusão das anotações do curso de git/github"
+
+
+#APÓS O COMMIT DEVEMOS MANDAR PARA A NUVEM USANDO PUSH
+
+git push origin main
+
