@@ -1,5 +1,5 @@
 # dio-desafio-github
-Repositório criadopara realização docurso "Criando seu primeiro repositório no github"
+Repositório criado para realização docurso "Criando seu primeiro repositório no github"
 
 
 ##Link útil:
